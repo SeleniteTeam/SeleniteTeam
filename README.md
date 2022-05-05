@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**SeleniteTeam/SeleniteTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Selenite
+##### Roblox Exploit
+It is a Free Roblox Executor (Exploit) 
+It is Developed by Velocities and CatsPnewed
+## Features
+- MultiAPI
+- Level 6 - 7
+- Discord RPC
+- Good UI
+- ScriptHub
+- TrayView
+- Export documents as Markdown, HTML and PDF
+> Join our discord > https://easyxploits.cf/ <
